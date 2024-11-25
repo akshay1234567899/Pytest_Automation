@@ -92,9 +92,9 @@ steps:
 
 - task: SendEmail@1
   inputs:
-    To: 'saurav.sharma@infostride.com'
-    CC: 'ankit.kumar@infostride.com'
-    From: 'fortestingpurpose9211@gmail.com'
+    To: 'akshay.kumar@infostride.com'
+    CC: 'akshaydhiman03@gmail.com'
+    From: ''
     Subject: 'test results'
     Body: |
       Pipeline: $(System.TeamProject)/$(System.DefinitionName)
