@@ -1,0 +1,5 @@
+Deposit Successful
+
+Captured Msg : Transaction successful
+
+Transaction type : Credit

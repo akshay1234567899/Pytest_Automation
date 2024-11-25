@@ -1,0 +1,7 @@
+.idea
+.pytest_cache
+__pycache__
+geckodriver.log
+.vscode
+.pytest_cache
+path.xml
